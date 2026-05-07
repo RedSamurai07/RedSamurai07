@@ -139,31 +139,30 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/RedSamurai07/AB-Testing-and-Experimental-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=AB-Testing-and-Experimental-Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=AB-Testing-and-Experimental-Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/RedSamurai07/Customer-Segmentation-with-RFM-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=Customer-Segmentation-with-RFM-Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=Customer-Segmentation-with-RFM-Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/RedSamurai07/Fraud-Detection-using-Anomaly-Detection-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=Fraud-Detection-using-Anomaly-Detection-project&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=Fraud-Detection-using-Anomaly-Detection-project&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/RedSamurai07/Demand-Forecasting-at-Scale">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=Demand-Forecasting-at-Scale&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=Demand-Forecasting-at-Scale&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/RedSamurai07/Twitter_US_Airline_Sentiments_Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=Twitter_US_Airline_Sentiments_Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=Twitter_US_Airline_Sentiments_Analysis&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/RedSamurai07/LLM-and-RAG-Application-GenAI-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redsamurai07&repo=LLM-and-RAG-Application-GenAI-&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedSamurai07&repo=LLM-and-RAG-Application-GenAI-&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
-
 ---
 
 ## 💼 Project Showcase
