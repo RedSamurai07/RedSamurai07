@@ -200,10 +200,10 @@ me.say_hi()
 > 📖 Check out my articles on [Medium](https://medium.com/@samsonsilvesterp)
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 Coming Soon: **"Building Production-Ready ML Pipelines"**
-- 📊 Coming Soon: **"A/B Testing Best Practices for Data Scientists"**
-- 🤖 Coming Soon: **"Introduction to RAG Applications"**
-- 💡 Coming Soon: **"MLOps: From Training to Production"**
+- 🔥 Coming Soon: **"Github repo's to master Gen AI Engineering"**
+- 📊 Coming Soon: **"Issue's & Solutions on MLOPs Pipelines"**
+- 🤖 Coming Soon: **"Best practises to code using Python"**
+- 💡 Coming Soon: **"Best Practises on Agentic AI, Automation, use cases of Agents"**
 <!-- BLOG-POST-LIST:END -->
 
 > ✍️ [Read more on Medium →](https://medium.com/@samsonsilvesterp)
