@@ -131,7 +131,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedSamurai07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedSamurai07&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ## 🔥 Featured Projects
