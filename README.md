@@ -43,7 +43,7 @@ class DataScientist:
         print("Thanks for dropping by! Let's build something amazing together!")
 
 
-me = DataScientist()
+me = DataScientist() and Gen AI / LLM Engineer
 
 me.say_hi()
 ```
@@ -130,10 +130,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redsamurai07&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedSamurai07&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
 ## 🔥 Featured Projects
 
 <p align="center">
@@ -167,8 +163,10 @@ me.say_hi()
   <a href="https://github.com/RedSamurai07/AI-Multi-Agent-Trading-Firm">
     <img src="https://img.shields.io/badge/AI--Multi--Agent--Trading--Firm-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/RedSamurai07/AI_Podcast_Generator">
+    <img src="https://img.shields.io/badge/AI_Podcast_Generator-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 
@@ -190,7 +188,8 @@ me.say_hi()
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
 | 🤖 **LLM & RAG Application** | GenAI application with retrieval augmented generation | LangChain, OpenAI, FAISS | ✅ Complete |
-| 📈 **AI Multi-Agent Trading Firm** | Multi-agent trading system with risk controls, paper execution, and audit logging | LangGraph, Streamlit, Docker, Alpaca, Supabase, SQLite | ✅ Complete |
+| 📈 **AI Multi-Agent Trading Firm** | Multi-agent trading system with risk controls, paper execution, and audit logging | LangGraph, Streamlit, Docker, Alpaca, Render, Supabase, SQLite | ✅ Complete |
+| 📈 **AI Podcast Generator** | Multi-agent podcast studio from a single topic or debate prompt and audit logging | LangGraph, Streamlit, Docker, Eleven Labs, Render, SQLite, Supabase | ✅ Complete |
 ---
 
 
@@ -310,7 +309,6 @@ Current Focus Areas:
 - 📖 Exploring GenAI tools and frameworks
 
 ---
-
 
 
 <p align="center">
